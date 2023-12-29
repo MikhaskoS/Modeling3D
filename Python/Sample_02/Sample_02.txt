@@ -1,0 +1,3 @@
+
+# вращение объекта с именем Cube на 45 градусов
+bpy.data.objects['Cube'].rotation_euler[0] = 45 / 180 * pi
