@@ -1,0 +1,13 @@
+QuadRemesher 1.3
+
+
+Installation:
+
+1. Install "\addon\QuadRemesher_1.3_BlenderBridge_Win.zip" in Edit -> Preferences -> Add-ons
+2. Enable it
+3. Select any mesh (e.g. default cube)
+4. Press "N" in the viewport to view the righthand toolbar. Find Quad Remesh in the tabs there. Open it. Click "Remesh It". 
+   Wait for it to download the files. (It will show a license agreement- accept it and close the dialogue when it prompts for license key.)
+5. Close Blender. Go to "C:\ProgramData\Exoside\QuadRemesher\Datas_Blender\"
+6. Copy and replace the contents from the "\engine\QuadRemesherEngine_1.3" folder into the given directory. Replace it all.
+7. Done
